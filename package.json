@@ -1,7 +1,7 @@
 {
-  "name": "@ionic/ionic-docs",
-  "version": "0.2.0",
-  "description": "Ionic Docs Site",
+  "name": "@modus/motherboard-docs",
+  "version": "0.0.1",
+  "description": "Motherboard Docs Site",
   "engines": {
     "node": "10.x.x",
     "npm": "6.x.x"
@@ -74,14 +74,14 @@
     "src/content/cli",
     "src/content/native"
   ],
-  "author": "Ionic Team",
+  "author": "Modus Create",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/ionic-docs.git"
+    "url": "git+https://github.com/moduscreateorg/motherboard-docs.git"
   },
   "bugs": {
-    "url": "https://github.com/ionic-team/ionic-docs"
+    "url": "https://github.com/moduscreateorg/motherboard-docs"
   },
-  "homepage": "https://ionicframework.com/docs/"
+  "homepage": "https://labs.moduscreate.com"
 }
